@@ -2,7 +2,6 @@ import './css/style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { gameEngine } from './gameEngine.ts'
-import './gameEngine.js';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 
